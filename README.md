@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marco Bione</h1>
+<div align="center"><img src="headergitdark.gif"></div>
 <h3 align="center">A passionate in Electronics & Informatics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcobione&label=Profile%20visitors:&color=0e75b6&style=flat-square" alt="marcobione" /> </p>
