@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/marco-bione-91b0151b6/](https://www.linkedin.com/in/marco-bione-91b0151b6/)
 
-- ⚡ Fun fact **your life starts when your confort zone ends**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marco bione" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco bione" height="30" width="40" /></a>
