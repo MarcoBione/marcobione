@@ -1,7 +1,5 @@
 <h3 align="center">I'm Marco and i like Electronics & Informatics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcobione&label=Profile%20visitors:&color=0e75b6&style=flat-square" alt="marcobione" /> </p>
-
 - 🌱 I’m currently learning **web development at Boolean careers**
 
 - 📫 How to reach me **marcobione.work@gmail.com**
