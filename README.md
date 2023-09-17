@@ -1,6 +1,6 @@
 <h3 align="center">I'm Marco and i like Electronics & Informatics</h3>
 
-- 🌱 I’m currently learning **web development at Boolean careers**
+- 🌱 I’m currently mater **Vue3** with a project and learning **TS**
 
 - 📫 How to reach me **marcobione.work@gmail.com**
 
