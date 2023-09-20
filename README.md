@@ -4,7 +4,7 @@
 
 <h3 align="left">I'm Marco and i like Electronics & Informatics</h3>
 
-- 🌱 I’m currently mater **Vue3** with a project and learning **TS**
+- 🌱 I’m currently master **Vue3** with a project and learning **TS** + **Tailwind CSS**
 
 - 📫 How to reach me **marcobione.work@gmail.com** for job opportunities🙏
 
